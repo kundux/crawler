@@ -1,0 +1,15 @@
+With more time following could be done:
+
+1. Security can be added in API(Most Important)
+2. External/static URLs can be checked in better and efficient way
+3. Better error handling for each level of exception with readable response
+4. Efficient and fast url validation code
+5. Optimized url processing code
+6. IP Rotational algo can be used to prevent blocking of search engines and websites
+7. Record of processed urls can be keep in data base instead of collection
+
+Trade offs:
+
+1. Due to internet speed, url processing can be slow
+2. If depth is higher, API response can be slow
+3. Search engines or particular websites might be blocker from same IP address
