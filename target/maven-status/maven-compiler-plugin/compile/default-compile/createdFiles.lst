@@ -1,0 +1,5 @@
+com\buildit\webcrawler\model\GeneralResponse.class
+com\buildit\webcrawler\service\CrawlService.class
+com\buildit\webcrawler\error\ErrorHandler.class
+com\buildit\webcrawler\controller\CrawlController.class
+com\buildit\webcrawler\main\WebcrawlerApplication.class
